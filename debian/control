@@ -1,0 +1,15 @@
+Source: regolith-assets
+Section: x11
+Priority: optional
+Maintainer: Ken Gilmer <kgilmer@gmail.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: https://github.com/regolith-linux/regolith-desktop
+Vcs-Git: https://github.com/regolith-linux/regolith-assets.git
+
+Package: regolith-assets
+Architecture: all
+Depends: ${misc:Depends}
+Description: Desktop assets for Regolith Linux
+ Astronomy photos from http://wallpaper-site.webflow.io.
+
