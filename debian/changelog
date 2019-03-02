@@ -1,3 +1,9 @@
+regolith-assets (1.01-1ubuntu1) bionic; urgency=medium
+
+  * Add new lockscreen image. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 02 Mar 2019 09:17:20 -0800
+
 regolith-assets (1.0-1) bionic; urgency=medium
 
   * Initial release
