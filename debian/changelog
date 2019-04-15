@@ -1,3 +1,9 @@
+regolith-assets (1.04-1ubuntu1) bionic; urgency=medium
+
+  * Fix makefile.
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Mon, 15 Apr 2019 12:40:14 -0700
+
 regolith-assets (1.03-1ubuntu1) bionic; urgency=medium
 
   * Swap out another wallpaper.
