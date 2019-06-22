@@ -1,3 +1,10 @@
+regolith-assets (1.05-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Add regolith-wallpapers.xml so wallpapers can be selected in
+    gnome-control-center. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 22 Jun 2019 16:22:54 -0700
+
 regolith-assets (1.04-1ubuntu1) bionic; urgency=medium
 
   * Fix makefile.

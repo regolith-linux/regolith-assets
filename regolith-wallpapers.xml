@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Regolith 0</name>
+    <filename>regolith-lockscreen.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 1</name>
+    <filename>ESP_034883_1645_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 2</name>
+    <filename>ESP_020528_1750_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 3</name>
+    <filename>ESP_020190_1690_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 4</name>
+    <filename>ESP_019753_2000_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 5</name>
+    <filename>ESP_018747_2065_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 6</name>
+    <filename>ESP_018105_2045_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 7</name>
+    <filename>ESP_016895_1525_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper>
+    <name>Regolith 8</name>
+    <filename>ESP_016869_1775_desktop.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+</wallpapers>
