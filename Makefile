@@ -1,17 +1,10 @@
-#
-# Global Settings
-#
-
 INSTALL = install
 DESTDIR ?= /
 PREFIX  ?= $(DESTDIR)
 
 PATH_BACKGROUNDS = $(PREFIX)/usr/share/backgrounds
 PATH_GNOME_WALLPAPERS = $(PREFIX)/usr/share/gnome-background-properties/
-
-#
-# Targets
-#
+PATH_REGOLITH_RESOURCES = $(PREFIX)/usr/share/regolith-resources
 
 all:
 	@echo "Nothing to do"
@@ -31,9 +24,14 @@ install:
     # Required for wallpapers to be selectable in gnome-control-center.
 	$(INSTALL) -m0644 -D regolith-wallpapers.xml $(PATH_GNOME_WALLPAPERS)/regolith-wallpapers.xml
 
+	# Theme 
+	$(INSTALL) -m0644 -D Xresources/solarized $(PATH_REGOLITH_RESOURCES)/solarized
+	$(INSTALL) -m0644 -D Xresources/st-term $(PATH_REGOLITH_RESOURCES)/st-term
+
 uninstall:
 	rm -f $(PATH_BACKGROUNDS)/ESP_0*.jpg
 	rm -f $(PATH_BACKGROUNDS)/regolith-lockscreen.jpg
 	rm -f $(PATH_GNOME_WALLPAPERS)/regolith-wallpapers.xml
+	rm -f $(PATH_REGOLITH_RESOURCES)/*
 
 .PHONY: all install uninstall
