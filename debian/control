@@ -8,7 +8,7 @@ Homepage: https://github.com/regolith-linux/regolith-desktop
 Vcs-Git: https://github.com/regolith-linux/regolith-assets.git
 
 Package: regolith-assets
-Architecture: all
+Architecture: any
 Depends: ${misc:Depends}
 Description: Desktop assets for Regolith Linux
  Astronomy photos from http://wallpaper-site.webflow.io.

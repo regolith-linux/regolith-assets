@@ -1,3 +1,16 @@
+regolith-assets (1.06-1ubuntu1ppa2) bionic; urgency=medium
+
+  * Change architecture to 'any' in package metadata to see if that
+    prods the Ubuntu package builder into providing arm builds. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sun, 23 Jun 2019 12:07:24 -0700
+
+regolith-assets (1.06-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Fix file paths to backgound images from last commit. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 22 Jun 2019 16:52:16 -0700
+
 regolith-assets (1.05-1ubuntu1ppa1) bionic; urgency=medium
 
   * Add regolith-wallpapers.xml so wallpapers can be selected in
