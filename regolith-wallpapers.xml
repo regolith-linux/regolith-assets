@@ -2,56 +2,26 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <name>Regolith 0</name>
-    <filename>/usr/share/backgrounds/regolith-lockscreen.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
     <name>Regolith 1</name>
-    <filename>/usr/share/backgrounds/ESP_034883_1645_desktop.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Regolith 2</name>
     <filename>/usr/share/backgrounds/ESP_020528_1750_desktop.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Regolith 3</name>
-    <filename>/usr/share/backgrounds/ESP_020190_1690_desktop.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Regolith 4</name>
+    <name>Regolith 2</name>
     <filename>/usr/share/backgrounds/ESP_019753_2000_desktop.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Regolith 5</name>
-    <filename>/usr/share/backgrounds/ESP_018747_2065_desktop.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Regolith 6</name>
-    <filename>/usr/share/backgrounds/ESP_018105_2045_desktop.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper>
-    <name>Regolith 7</name>
+    <name>Regolith 3</name>
     <filename>/usr/share/backgrounds/ESP_016895_1525_desktop.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper>
-    <name>Regolith 8</name>
-    <filename>/usr/share/backgrounds/ESP_016869_1775_desktop.jpg</filename>
+    <name>Regolith 4</name>
+    <filename>/usr/share/backgrounds/regolith-default.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
   </wallpaper>
