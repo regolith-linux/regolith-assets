@@ -1,3 +1,10 @@
+regolith-assets (1.08-1ubuntu1ppa1) bionic; urgency=medium
+
+  * Moving Xresources to regolith-styles package to prevent 
+    large package downloads. 
+
+ -- Ken Gilmer <kgilmer@gmail.com>  Sat, 29 Jun 2019 08:58:25 -0700
+
 regolith-assets (1.07-1ubuntu1ppa1) bionic; urgency=medium
 
   * Ship Xresources for st-term.  
